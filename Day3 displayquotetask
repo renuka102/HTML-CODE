@@ -1,0 +1,19 @@
+<html>
+<head>
+	<title>Blockquote</title>
+</head>
+<body>
+	<h3>GeeksforGeeks</h3>
+	
+
+<p>The quick brown fox jumps over the lazy dog<br></p>
+
+
+	<!--Inside blockquotes-->
+	
+
+<p><blockquote>The quick brown fox jumps over the lazy dog</blockquote></p>
+
+
+</body>
+</html>
