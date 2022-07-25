@@ -1,0 +1,10 @@
+<html>  
+  <head>  
+    <title>Abbreviation Tag</title>  
+   </head>  
+ <body>  
+    <h2>Abbreviation tag example</h2>  
+    
+    <abbr title="World Health Organization">WHO</abbr> 
+    </body>  
+</html>
