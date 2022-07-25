@@ -1,0 +1,26 @@
+<head>
+    <title>
+        Proper way address format
+    </title>
+</head>
+ 
+<body>
+    <h1 style="color:blue;">GeeksforGeeks</h1>
+ 
+    <h3>
+        proper way to write address
+    </h3>
+    <!-- address tag starts from here -->
+    <address>
+        Organization Name: GeeksforGeeks <br>
+        Web Site:
+        <a href="https://www.geeksforgeeks.org/about/contact-us/">
+            GeeksforGeeks</a><br>
+        visit us: GeeksforGeeks<br>
+        5th Floor, A-118,
+        Sector-136, Noida,
+        Uttar Pradesh - 201305
+    </address>
+    <!-- address tag ends here -->
+ 
+</body>
