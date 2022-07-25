@@ -1,0 +1,49 @@
+<html>
+  
+<body>
+    <h2>Explanation of formatting element</h2>
+      
+    <!--Text in Strong-->
+    <strong>This is an important content </strong>
+    <br>
+      
+    <!--Text in small-->
+    <small>This is an important content</small>
+    <br>
+      
+    <!--Text in Highlight-->
+    <mark>This is an important content</mark>
+    <br>
+
+    <!--Text in Bold-->
+    <b>This is an important content</b>
+    <br>
+
+    <!--Text in  Italic-->
+    <i>This is an important content</i>
+    <br>
+
+     <!--Text in  Emphasized-->
+     <em>This is an important content</em>
+     <br>
+
+     <!--Text in Delete-->
+     <del>This is an important content</del>
+     <br>
+
+     <!--Text in Insert-->
+     <ins>This is an important content</ins>
+     <br>
+
+     <!--Text in Subscript-->
+     <sub>This is an important content</sub>
+     <br>
+
+      <!--Text in Superscript-->
+      <sup>This is an important content</sup>
+      <br>
+
+</body>
+  
+</html>
+
