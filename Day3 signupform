@@ -1,0 +1,42 @@
+<html>
+<Head>
+    <title>Forms</title>
+</Head>
+   <body>
+      <form>
+        <label><b>Firstname</b></label>
+        <input type="text" placeholder="Enter Firstname" name="Firstname" required><br>
+</br>
+         <label><b>Lastname</b></label>
+        <input type="text" placeholder="Enter Lastname" name="Lastname" required><br> 
+</br>
+
+        <label><b>Email</b></label>
+        <input type="text" placeholder="Enter Email" name="email" required><br>
+      </br>
+    
+        <label><b>Password</b></label>
+        <input type="password" placeholder="Enter Password" name="psw" required><br>
+    </br>
+
+    <small>Select Gender :</small><br>
+</br>
+        
+         <input type="radio" name="gender" id="male"> 
+         <label for="male">Male</label>
+
+         <input type="radio" name="gender" id="female"> 
+         <label for="female">Female</label><br>
+</br>
+
+<small>Select Vehicle type :</small><br>
+</br>
+
+         <label> <input type="checkbox"> Bike</label>
+         <label> <input type="checkbox"> Car</label><br>
+</br>
+
+         <button type="submit">Submit</button>
+     </form>
+   </body>
+</html>
