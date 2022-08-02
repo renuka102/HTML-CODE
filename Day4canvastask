@@ -1,0 +1,21 @@
+<html>
+<body>
+
+<canvas id="myCanvas" width="600" height="300" style="border:1px solid blue">
+</canvas>
+<br>
+
+<script>
+    var canvas = document.getElementById('myCanvas');
+    var context = canvas.getContext('2d');
+    
+    context.fillStyle = 'Red';
+    context.fillRect(50, 10, 600, 300); // The Red rectangle
+    
+    context.fillStyle = 'Green';
+    context.fillRect(90, 100, 200, 100); // The Green rectangle
+    
+</script>
+
+</body>
+</html>
