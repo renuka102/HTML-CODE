@@ -1,0 +1,12 @@
+<html>
+<body>
+    <input id="bgColorSelector" type="color" list="colors" onchange="func(this.value);" value="_none">
+<datalist id="colors">
+  <option value="#FFFFFF">
+  <option value="#FF0000">
+  <option value="#00FF00">
+  <option value="#0000FF">
+</datalist>
+</datalist>
+</body>
+</html>
