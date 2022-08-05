@@ -1,0 +1,24 @@
+<html>
+<head>
+<style>
+body {
+  background-image: url("https://thumbs.dreamstime.com/z/spring-flowers-blue-crocuses-drops-water-backgro-background-tracks-rain-113784722.jpg");
+  background-color:darkblue;
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-size: 400px 200px;
+  background-clip: border-box;
+  background-attachment: fixed;
+  background-origin: content-box;
+  border: 5px dotted black;
+}
+</style>
+</head>
+<body>
+
+<h1>The background-color Property</h1>
+
+<p>The background Image color</p>
+
+</body>
+</html>
